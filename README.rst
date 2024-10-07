@@ -1,5 +1,5 @@
 =====
-Bleak
+Bleaker
 =====
 
 .. image:: https://github.com/hbldh/bleak/workflows/Build%20and%20Test/badge.svg
